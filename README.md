@@ -44,6 +44,8 @@ https://emacs-lsp.github.io/lsp-mode/page/installation/
 ``` lisp
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; go-mode
+;; go install golang.org/x/tools/cmd/goimports@latest
+;; go install golang.org/x/tools/gopls@latest
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; install go-mode: 
 (package-install 'go-mode)
