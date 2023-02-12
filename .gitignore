@@ -1,0 +1,6 @@
+.cache
+.lsp-session-*
+eln-cache
+elpa
+*~
+transient
